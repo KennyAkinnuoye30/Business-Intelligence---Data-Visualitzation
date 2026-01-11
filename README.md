@@ -9,11 +9,11 @@
 - OEM and turbine model breakdowns
 
 ### Overview & Build Trends
-![Land-based Wind Overview](images/Land-Based Wind_1.png)
+![Land-based Wind Overview](images/Land_Based_Wind_1.png)
 
 ### State, OEM, and Model Distribution
-![Wind Capacity Breakdown](images/Land-Based Wind_2.png)
+![Wind Capacity Breakdown](images/Land_Based_Wind_2.png)
 
 ### Geographic Project Distribution
-![Wind Project Map](images/Land-Based Wind_3.png)
+![Wind Project Map](images/Land_Based_Wind_3.png)
 
